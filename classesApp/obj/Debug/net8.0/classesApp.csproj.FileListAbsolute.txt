@@ -1,0 +1,14 @@
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\classesApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\classesApp.AssemblyInfoInputs.cache
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\classesApp.AssemblyInfo.cs
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\classesApp.csproj.CoreCompileInputs.cache
+F:\programmering\c# - masterclass\classesApp\bin\Debug\net8.0\classesApp.exe
+F:\programmering\c# - masterclass\classesApp\bin\Debug\net8.0\classesApp.deps.json
+F:\programmering\c# - masterclass\classesApp\bin\Debug\net8.0\classesApp.runtimeconfig.json
+F:\programmering\c# - masterclass\classesApp\bin\Debug\net8.0\classesApp.dll
+F:\programmering\c# - masterclass\classesApp\bin\Debug\net8.0\classesApp.pdb
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\classesApp.dll
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\refint\classesApp.dll
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\classesApp.pdb
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\classesApp.genruntimeconfig.cache
+F:\programmering\c# - masterclass\classesApp\obj\Debug\net8.0\ref\classesApp.dll
